@@ -1,6 +1,8 @@
 # code-challenge-3
-Date, 11/4/2024
-By  Felicity Muhonja Ilavatsa
+Date, 11/4/2024.
+
+By  Felicity Muhonja Ilavatsa.
+
 Description
 An application that allows a user to purchase movie tickets from the theater.
 
